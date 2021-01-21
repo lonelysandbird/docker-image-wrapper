@@ -1,0 +1,2 @@
+FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.6.0
+MAINTAINER xiaohan
